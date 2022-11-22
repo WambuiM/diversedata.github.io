@@ -1,8 +1,8 @@
 
-baseurl = "https://example.com"
+baseurl = "https://wambuim.github.io/diversedata.github.io/"
 disablePathToLower = false
 languageCode = "en-us"
-title = "Site title"
+title = "Diverse Data"
 theme = "hugo-octopress"
 
 # Disqus shortcode
